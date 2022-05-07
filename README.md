@@ -47,6 +47,7 @@ At the end of this lab, you have a solid understanding of how to build and deplo
 ## Related references
 
 - [MCW](https://github.com/Microsoft/MCW)
+- [AzureBarista](https://www.azurebarista.com)
 
 ## Help & Support
 
